@@ -1,5 +1,5 @@
 /*
-	jQuery.mmenu CSS
+  jQuery.mmenu CSS
 */
 html.mm-opened .mm-page,
 html.mm-opened #mm-blocker,
@@ -259,7 +259,7 @@ html.mm-opened .mm-page {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); }
 
 .mm-ismenu {
-  background: #348C9E; }
+  background: #0950b8; }
 
 .mm-menu {
   color: rgba(255, 255, 255, 0.6); }
@@ -335,7 +335,7 @@ html.mm-nooverflowscrolling.mm-opened {
       display: block; }
 
 /*
-	jQuery.mmenu counters addon CSS
+  jQuery.mmenu counters addon CSS
 */
 em.mm-counter {
   font: inherit;
@@ -367,7 +367,7 @@ em.mm-counter {
   color: rgba(255, 255, 255, 0.3); }
 
 /*
-	jQuery.mmenu dragOpen addon CSS
+  jQuery.mmenu dragOpen addon CSS
 */
 html.mm-opened.mm-dragging .mm-menu,
 html.mm-opened.mm-dragging .mm-page,
@@ -379,7 +379,7 @@ html.mm-opened.mm-dragging #mm-blocker {
   transition-duration: 0s; }
 
 /*
-	jQuery.mmenu header addon CSS
+  jQuery.mmenu header addon CSS
 */
 .mm-header {
   -webkit-box-sizing: border-box;
@@ -474,7 +474,7 @@ html.mm-opened.mm-dragging #mm-blocker {
     border-color: rgba(255, 255, 255, 0.3); }
 
 /*
-	jQuery.mmenu labels addon CSS
+  jQuery.mmenu labels addon CSS
 */
 .mm-menu.mm-fixedlabels .mm-list {
   background: inherit; }
@@ -516,7 +516,7 @@ html.mm-opened.mm-dragging #mm-blocker {
   background: rgba(255, 255, 255, 0.05); }
 
 /*
-	jQuery.mmenu searchfield addon CSS
+  jQuery.mmenu searchfield addon CSS
 */
 .mm-search,
 .mm-search input {
@@ -571,7 +571,7 @@ html.mm-opened.mm-dragging #mm-blocker {
   color: rgba(255, 255, 255, 0.3); }
 
 /*
-	jQuery.mmenu effects extension CSS
+  jQuery.mmenu effects extension CSS
 */
 html.mm-slide .mm-menu {
   -webkit-transition: -webkit-transform 0.4s ease;
@@ -762,7 +762,7 @@ html.mm-zoom-panels .mm-panel {
       transform: scale(0.7, 0.7); }
 
 /*
-	jQuery.mmenu fullscreen extension CSS
+  jQuery.mmenu fullscreen extension CSS
 */
 html.mm-opened.mm-opening.mm-fullscreen .mm-page,
 html.mm-opened.mm-opening.mm-fullscreen #mm-blocker,
@@ -931,7 +931,7 @@ html.mm-opened.mm-fullscreen .mm-page {
   box-shadow: none !important; }
 
 /*
-	jQuery.mmenu position extension CSS
+  jQuery.mmenu position extension CSS
 */
 .mm-menu.mm-top {
   width: 100%; }
@@ -1068,7 +1068,7 @@ html.mm-bottom.mm-opened.mm-opening .mm-fixed-top {
   html.mm-bottom.mm-opened.mm-opening .mm-fixed-top {
     top: -880px; } }
 /*
-	jQuery.mmenu z-position extension CSS
+  jQuery.mmenu z-position extension CSS
 */
 html.mm-front.mm-opened .mm-page {
   top: 0 !important;
@@ -1175,13 +1175,13 @@ html.mm-opened.mm-opening.mm-front .mm-fixed-bottom {
   bottom: 0; }
 
 /*
-	jQuery.mmenu themes extension CSS
+  jQuery.mmenu themes extension CSS
 */
 html.mm-opened.mm-light .mm-page {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); }
 
 .mm-ismenu.mm-light {
-  background: #348C9E; }
+   }
 
 .mm-menu.mm-light {
   color: rgba(255, 255, 255, 0.6); }
