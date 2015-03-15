@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pridephoto2.anyphoto" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>pridephoto2</name>
+    <name>pridechat</name>
     <description>
-       pridephoto2
+       pridechat
     </description>
     <author email="ch7@daum.net" href="http://m.rococophoto.com">
-        pridephoto2
+        pridechat
     </author>
     <content src="index.html" />
    <preference name="permissions" value="none" />
